@@ -26,6 +26,7 @@
         Console.Write("ARACLARI GIRINIZ:");
         dizgi = Console.ReadLine();
         Console.WriteLine("ARAC DİZİSİ:" + dizgi);
+
     }
     public void Dizgi()
         {
@@ -141,8 +142,7 @@
                     if (miniPark == 0)
                     {
                         Console.WriteLine("Miniparkta yer kalmadi");
-                       
-                        
+   
                     }
 
                     
